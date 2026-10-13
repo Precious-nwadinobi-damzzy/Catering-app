@@ -1,0 +1,10 @@
+@import "tailwindcss";
+
+
+#menu div{
+    @apply space-y-3
+}
+
+#menu div p{
+    @apply text-xs lg:text-[15px]
+}
